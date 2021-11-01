@@ -43,4 +43,5 @@ Software Engineer passionate about creating great products that have a real impa
   
   ###
   
-  ![Snake animation](https://github.com/camillodev/camillodev/assets/github-contribution-grid-snake.svg)
+ ![Snake animation](https://raw.github.com/camillodev/camillodev/master/assets/github-contribution-grid-snake.svg?sanitize=true)
+
