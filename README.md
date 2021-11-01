@@ -6,7 +6,14 @@
 🧑🏻‍💻
 Software Engineer passionate about creating great products that have a real impact on users, with over 6 years of industry experience, working mainly with technologies such as Angular for 3 years and Vue.js, Node.js, MongoDB, SQL Server, .Net C# for 2 years each.
 
-<div align="center">
+### Get in touch
+<a href="https://www.linkedin.com/in/rafael-camillo/">
+  <img align="left" alt="Rafael Camillo | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+<br><br><br>
+
+
+<div align="center"  style="display: block; width: 100%">
   <a href="https://github.com/camillodev">
     <img  height="500" src="https://lh3.googleusercontent.com/pw/AM-JKLV61-UiV9e-oXVPVcl-j8d6S7sS-HOMJdH8EzD1c5bRYpRHXmDHc29BGnAiEe_DVwOJUlTm3b2KO_FWCh40ebb7fXLcWUCjYt48y50LdVsqBZMpnzmDpITVoVybOX-L5upvX4VTRFQyx0p4aLczxXwJdA=w1026-h1366-no"/>
 </div>
