@@ -4,7 +4,22 @@
 ## Hi! I'm Rafael Camillo, also know as Rafa! 👋
 
 🧑🏻‍💻
-Software Engineer passionate about creating great products that have a real impact on users, with over 6 years of industry experience, working mainly with technologies such as Angular for 3 years and Vue.js, Node.js, MongoDB, SQL Server, .Net C# for 2 years each.
+Fluent English | Software Engineer | Front End Engineer | Product Manager
+rafael-camillo@outlook.com | +55 21 965801193
+
+As a highly motivated and results-driven Senior Software Engineer with 7+ years of experience, I've had the privilege of building and delivering impactful products in various industries such as Finance, Education, Consultancy, Television, Civil Engineering, Logistic, Gastronomy, and social impact companies as a volunteer. I've worked with startups, corporates, and medium-sized companies, giving me a broad perspective on software development.
+
+My technical expertise includes Angular, React, Vue.js, Node.js, MongoDB, SQL Server, and .Net C#, and I have a strong understanding of software development best practices, including Agile methodologies and test-driven development.
+
+In addition to my technical skills, I hold a degree in computer science and an MBA in Product Management, giving me a unique perspective on the intersection of technology and business strategy.
+
+Throughout my career, I have demonstrated a keen understanding of product development and management, working closely with product managers to define requirements, prioritize features, and drive product roadmaps. I have experience with user research, product design, and customer development, and have helped to launch successful products across multiple industries.
+
+I am a strong advocate for remote work and have significant experience in distributed teams. I understand the importance of effective communication and collaboration when working remotely and have developed the skills necessary to be an effective team member regardless of location.
+
+I'm open to working as a Front-end engineer, full-stack engineer, or Product Management and am excited about the opportunity to contribute my skills to impactful projects. 
+
+Please feel free to contact me at my email rafael-camillo@outlook.com for further discussion.
 
 ### Get in touch
 <a href="https://www.linkedin.com/in/rafael-camillo/">
